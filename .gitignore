@@ -1,0 +1,6 @@
+docs/
+Trials/
+crawlers/
+.venv/
+
+.env
