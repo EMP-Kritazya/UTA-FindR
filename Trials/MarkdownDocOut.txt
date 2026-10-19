@@ -1,0 +1,75 @@
+## Kritazya Upreti
+
+emp.kritazya@gmail.com ♣ +1 (817) 614-8988 ♣ linkedin.com/in/kritazya ♣ github.com/EMP-Kritazya ♣ kritazya.dev ♣ Arlington, TX Building full-stack products and AI systems, from LLM-powered apps down to embedded firmware
+
+## EDUCATION
+
+## University of Texas at Arlington
+
+B.S. in Computer Science, Minor in Mathematics | GPA: 3.90/4.00
+
+Arlington, TX
+
+Expected Dec 2027
+
+- Coursework: Data Structures and Algorithms, Operating Systems, Databases, Artificial Intelligence, Computer Networks
+- AI Engineering (CodePath): 10-week program, completed with Honors distinction
+
+## TECHNICAL SKILLS
+
+Languages: Python, C++, JavaScript, TypeScript, C#, C, SQL
+
+AI/ML: PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, CNNs, RAG, LangChain, LangGraph, LLM APIs, ChromaDB, Pinecone
+
+Backend &amp; Full-Stack: FastAPI, Node.js, Express, React, REST APIs, PostgreSQL, JWT/OAuth, Chrome MV3, Vite
+
+Developer Tools &amp; Infrastructure: Linux (Ubuntu), Git, GitHub Actions (CI/CD), Docker, Claude, Codex, Render, Vitest, Jasmine
+
+Robotics &amp; Embedded: ROS 2, ArduPilot, Gazebo/SITL, ESP32, Arduino, UART
+
+## EXPERIENCE
+
+Research Assistant | Python, NumPy, Pandas, Matplotlib, C++, C#, ESP32, Machine Learning University of Texas at Arlington Research Institute Aug 2024 - Aug 2026
+
+Fort Worth, TX
+
+- Built an end-to-end Python ML pipeline for soft-robotic pressure prediction, collecting and preprocessing sensor data and benchmarking 10 regression models; achieved 99.55% test R! and 92.73% cross-validation R!
+- Wrote embedded C++ firmware for ESP32 microcontrollers to acquire sensor data and drive valve and actuator control over serial (UART), enabling real-time control of a soft robotic hand
+- Built a VR rehab game synced to a soft robotic glove and maintained a Unity/C# 3D rehab game synced to physical controllers and sensors; fixed its integration issues for zero-failure live demos to 30+ students and industry representatives
+- Co-authored a peer-reviewed paper on a learning-based soft pneumatic wrist exoskeleton, published at AIRC 2025
+
+ROS 2 Team Lead - Autonomous UAV | C++, Python, ROS 2 Jazzy, ArduPilot, Gazebo, Ubuntu, Git Aug 2026 - Present
+
+University of Texas at Arlington
+
+- Lead ROS 2 development for the search-and-rescue UAV subsystem, coordinating a 13-person team through sprint planning, code reviews, and a GitFlow branching workflow
+- Develop and validate autonomous search-pattern software in Python against Gazebo and ArduPilot SITL, integrating the autonomy stack with the flight controller over UDP
+
+## PROJECTS
+
+Buddy - Agentic AI Productivity Mentor | Python, FastAPI, scikit-learn, PostgreSQL, Gemini API, ElevenLabs Sep 2026
+
+- Built a Chrome MV3 extension and async FastAPI backend that streams browsing sessions into TigerData (PostgreSQL) via idempotent upserts, eliminating double-counted time under 40 concurrent, out-of-order heartbeats
+- Trained a TF-IDF + logistic-regression classifier on 1,129 labeled sessions with leak-proof, template-grouped validation splits, reaching 92.5% accuracy and 100% recall on productive work
+- Built a voice-driven LLM agent (Gemini, ElevenLabs) with tool use and persistent context, adding tiered fallbacks and confirmationgated writes to prevent silent failures and state corruption
+
+UTAFindR - Hybrid Retrieval | Python, BM25, sentence-transformers, cross-encoders Aug 2026 - Sep 2026
+
+- Built a hybrid RAG pipeline that answers UTA CS students' enrollment questions, combining BM25 and dense retrieval through reciprocal rank fusion with cross-encoder reranking
+- Designed fusion rules that protect literal matches, preserving 100% exact-match accuracy on keyword-sensitive queries (course codes, policy terms), verified by an automated evaluation harness
+
+Momentum - Full-Stack Habit-Tracking Platform | React, Node.js, Express, PostgreSQL, Vitest Jun 2026 - Aug 2026
+
+- Shipped a production web app on Render with 30 REST endpoints over a normalized 7-table PostgreSQL schema, using JWT authentication with HttpOnly cookies, bcrypt hashing, and GitHub OAuth.
+- Wrote a 47-test Vitest suite covering auth and core flows; diagnosed and hotfixed a production bug that prevented affected users from completing their first week of onboarding.
+
+· Built a rule-based engine generating personalized daily workouts from a 96-exercise library, saved in one atomic transaction.
+
+DocuExtract - Mortgage Document AI | FastAPI, React, TypeScript, ChromaDB, Tesseract Oct 2025
+
+- Co-built a FastAPI + React/TypeScript app that OCRs uploaded mortgage documents, extracts key-value fields from single-page files, and routes multi-page files into a RAG index for Q&amp;A
+- Indexed 14,383 chunks from 500+ pages of Fannie Mae, Freddie Mac, FHA, and USDA guidelines in ChromaDB with retrieval latency under 500 ms, falling back to live web search only when no document matches.
+
+## HONORS
+
+$5,000 GenSpiration Prize, National Academy of Inventors - Won $5,000 for a 2-degree-of-freedom soft robotic wrist exoskeleton invention, including the control algorithm, working prototype, and GUI.

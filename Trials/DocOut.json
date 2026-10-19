@@ -1,0 +1,1714 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Kritazya_UResume",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2684168306202598542,
+    "filename": "Kritazya_UResume.pdf",
+    "uri": null
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "parent": null,
+    "children": [],
+    "content_layer": "furniture",
+    "meta": null,
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "parent": null,
+    "children": [
+      {
+        "cref": "#/texts/0"
+      },
+      {
+        "cref": "#/texts/1"
+      },
+      {
+        "cref": "#/texts/2"
+      },
+      {
+        "cref": "#/groups/0"
+      },
+      {
+        "cref": "#/texts/9"
+      },
+      {
+        "cref": "#/groups/2"
+      },
+      {
+        "cref": "#/groups/3"
+      },
+      {
+        "cref": "#/groups/4"
+      },
+      {
+        "cref": "#/texts/22"
+      },
+      {
+        "cref": "#/texts/23"
+      },
+      {
+        "cref": "#/groups/5"
+      },
+      {
+        "cref": "#/texts/26"
+      },
+      {
+        "cref": "#/texts/27"
+      },
+      {
+        "cref": "#/groups/6"
+      },
+      {
+        "cref": "#/texts/31"
+      },
+      {
+        "cref": "#/groups/7"
+      },
+      {
+        "cref": "#/texts/34"
+      },
+      {
+        "cref": "#/groups/8"
+      },
+      {
+        "cref": "#/texts/37"
+      },
+      {
+        "cref": "#/texts/38"
+      },
+      {
+        "cref": "#/groups/9"
+      },
+      {
+        "cref": "#/texts/41"
+      },
+      {
+        "cref": "#/texts/42"
+      }
+    ],
+    "content_layer": "body",
+    "meta": null,
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/3"
+        },
+        {
+          "cref": "#/texts/4"
+        },
+        {
+          "cref": "#/texts/5"
+        },
+        {
+          "cref": "#/texts/6"
+        },
+        {
+          "cref": "#/groups/1"
+        }
+      ],
+      "content_layer": "body",
+      "meta": null,
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "cref": "#/groups/0"
+      },
+      "children": [
+        {
+          "cref": "#/texts/7"
+        },
+        {
+          "cref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "meta": null,
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/10"
+        },
+        {
+          "cref": "#/texts/11"
+        },
+        {
+          "cref": "#/texts/12"
+        },
+        {
+          "cref": "#/texts/13"
+        },
+        {
+          "cref": "#/texts/14"
+        },
+        {
+          "cref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "meta": null,
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/16"
+        },
+        {
+          "cref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "meta": null,
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/18"
+        },
+        {
+          "cref": "#/texts/19"
+        },
+        {
+          "cref": "#/texts/20"
+        },
+        {
+          "cref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "meta": null,
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/24"
+        },
+        {
+          "cref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "meta": null,
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/28"
+        },
+        {
+          "cref": "#/texts/29"
+        },
+        {
+          "cref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "meta": null,
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/32"
+        },
+        {
+          "cref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "meta": null,
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/35"
+        },
+        {
+          "cref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "meta": null,
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [
+        {
+          "cref": "#/texts/39"
+        },
+        {
+          "cref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "meta": null,
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 257.324,
+            "t": 763.0364546000001,
+            "r": 354.67731319999984,
+            "b": 749.7575072722917,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Kritazya Upreti",
+      "text": "Kritazya Upreti",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.742,
+            "t": 746.4548831999999,
+            "r": 550.2583407999999,
+            "b": 727.1759373506493,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "emp.kritazya@gmail.com ♣ +1 (817) 614-8988 ♣ linkedin.com/in/kritazya ♣ github.com/EMP-Kritazya ♣ kritazya.dev ♣ Arlington, TX Building full-stack products and AI systems, from LLM-powered apps down to embedded firmware",
+      "text": "emp.kritazya@gmail.com ♣ +1 (817) 614-8988 ♣ linkedin.com/in/kritazya ♣ github.com/EMP-Kritazya ♣ kritazya.dev ♣ Arlington, TX Building full-stack products and AI systems, from LLM-powered apps down to embedded firmware",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 713.5824016,
+            "r": 115.1224832,
+            "b": 702.5165813066667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "EDUCATION",
+      "text": "EDUCATION",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "cref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 699.2704558,
+            "r": 179.3389290000001,
+            "b": 690.0490005960417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "University of Texas at Arlington",
+      "text": "University of Texas at Arlington",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "cref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 687.3154558,
+            "r": 309.3907027999999,
+            "b": 678.0940005960416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "B.S. in Computer Science, Minor in Mathematics | GPA: 3.90/4.00",
+      "text": "B.S. in Computer Science, Minor in Mathematics | GPA: 3.90/4.00",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "cref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 511.794,
+            "t": 699.1309794,
+            "r": 568.7999972000001,
+            "b": 690.4390960915584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Arlington, TX",
+      "text": "Arlington, TX",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "cref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 490.7798,
+            "t": 687.1759794,
+            "r": 568.7969206000001,
+            "b": 678.4840960915584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Expected Dec 2027",
+      "text": "Expected Dec 2027",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "cref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 674.8614558,
+            "r": 540.8325039999996,
+            "b": 665.6400005960417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "· Coursework: Data Structures and Algorithms, Operating Systems, Databases, Artificial Intelligence, Computer Networks",
+      "text": "Coursework: Data Structures and Algorithms, Operating Systems, Databases, Artificial Intelligence, Computer Networks",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "cref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 661.4124558,
+            "r": 389.32127799999955,
+            "b": 652.1910005960416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "· AI Engineering (CodePath): 10-week program, completed with Honors distinction",
+      "text": "AI Engineering (CodePath): 10-week program, completed with Honors distinction",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 648.3274016,
+            "r": 161.78362880000003,
+            "b": 637.2615813066667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "TECHNICAL SKILLS",
+      "text": "TECHNICAL SKILLS",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "cref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 634.0144558000001,
+            "r": 293.18155620000005,
+            "b": 624.7930005960417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Languages: Python, C++, JavaScript, TypeScript, C#, C, SQL",
+      "text": "Languages: Python, C++, JavaScript, TypeScript, C#, C, SQL",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "cref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 621.0634558,
+            "r": 570.8491839999998,
+            "b": 611.8420005960417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "AI/ML: PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, CNNs, RAG, LangChain, LangGraph, LLM APIs, ChromaDB, Pinecone",
+      "text": "AI/ML: PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, CNNs, RAG, LangChain, LangGraph, LLM APIs, ChromaDB, Pinecone",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "cref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 608.1124558,
+            "r": 518.0274901999996,
+            "b": 598.8910005960416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "Backend & Full-Stack: FastAPI, Node.js, Express, React, REST APIs, PostgreSQL, JWT/OAuth, Chrome MV3, Vite",
+      "text": "Backend & Full-Stack: FastAPI, Node.js, Express, React, REST APIs, PostgreSQL, JWT/OAuth, Chrome MV3, Vite",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "cref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 595.1604558,
+            "r": 568.7968439999995,
+            "b": 585.9390005960416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "Developer Tools & Infrastructure: Linux (Ubuntu), Git, GitHub Actions (CI/CD), Docker, Claude, Codex, Render, Vitest, Jasmine",
+      "text": "Developer Tools & Infrastructure: Linux (Ubuntu), Git, GitHub Actions (CI/CD), Docker, Claude, Codex, Render, Vitest, Jasmine",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "cref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 582.2094558,
+            "r": 377.2559345999998,
+            "b": 572.9880005960416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Robotics & Embedded: ROS 2, ArduPilot, Gazebo/SITL, ESP32, Arduino, UART",
+      "text": "Robotics & Embedded: ROS 2, ArduPilot, Gazebo/SITL, ESP32, Arduino, UART",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "cref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 570.6184016,
+            "r": 121.5782912,
+            "b": 559.5525813066666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "EXPERIENCE",
+      "text": "EXPERIENCE",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "cref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 554.3134558,
+            "r": 423.51233599999983,
+            "b": 533.5270960915584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.6914373999998,
+            "t": 554.1739794,
+            "r": 568.7969317999999,
+            "b": 545.4820960915584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            141,
+            160
+          ]
+        }
+      ],
+      "orig": "Research Assistant | Python, NumPy, Pandas, Matplotlib, C++, C#, ESP32, Machine Learning University of Texas at Arlington Research Institute Aug 2024 - Aug 2026",
+      "text": "Research Assistant | Python, NumPy, Pandas, Matplotlib, C++, C#, ESP32, Machine Learning University of Texas at Arlington Research Institute Aug 2024 - Aug 2026",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "cref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 506.9291422000001,
+            "t": 542.2189794,
+            "r": 568.7968882,
+            "b": 533.5270960915584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Fort Worth, TX",
+      "text": "Fort Worth, TX",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "cref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 529.7659794,
+            "r": 568.7974981999995,
+            "b": 508.72900059604166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "· Built an end-to-end Python ML pipeline for soft-robotic pressure prediction, collecting and preprocessing sensor data and benchmarking 10 regression models; achieved 99.55% test R! and 92.73% cross-validation R!",
+      "text": "Built an end-to-end Python ML pipeline for soft-robotic pressure prediction, collecting and preprocessing sensor data and benchmarking 10 regression models; achieved 99.55% test R! and 92.73% cross-validation R!",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "cref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 504.3609794,
+            "r": 568.7974981999997,
+            "b": 483.7140960915584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "· Wrote embedded C++ firmware for ESP32 microcontrollers to acquire sensor data and drive valve and actuator control over serial (UART), enabling real-time control of a soft robotic hand",
+      "text": "Wrote embedded C++ firmware for ESP32 microcontrollers to acquire sensor data and drive valve and actuator control over serial (UART), enabling real-time control of a soft robotic hand",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "cref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 478.9559794,
+            "r": 568.7974981999996,
+            "b": 457.91900059604166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "· Built a VR rehab game synced to a soft robotic glove and maintained a Unity/C# 3D rehab game synced to physical controllers and sensors; fixed its integration issues for zero-failure live demos to 30+ students and industry representatives",
+      "text": "Built a VR rehab game synced to a soft robotic glove and maintained a Unity/C# 3D rehab game synced to physical controllers and sensors; fixed its integration issues for zero-failure live demos to 30+ students and industry representatives",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "cref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 453.6914558,
+            "r": 511.2235929999998,
+            "b": 444.47000059604164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "· Co-authored a peer-reviewed paper on a learning-based soft pneumatic wrist exoskeleton, published at AIRC 2025",
+      "text": "Co-authored a peer-reviewed paper on a learning-based soft pneumatic wrist exoskeleton, published at AIRC 2025",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 441.2374558,
+            "r": 568.7968897999996,
+            "b": 432.01600059604164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "ROS 2 Team Lead - Autonomous UAV | C++, Python, ROS 2 Jazzy, ArduPilot, Gazebo, Ubuntu, Git Aug 2026 - Present",
+      "text": "ROS 2 Team Lead - Autonomous UAV | C++, Python, ROS 2 Jazzy, ArduPilot, Gazebo, Ubuntu, Git Aug 2026 - Present",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 429.1429794,
+            "r": 172.00645540000008,
+            "b": 420.45109609155844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "University of Texas at Arlington",
+      "text": "University of Texas at Arlington",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "cref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 416.8294558,
+            "r": 568.7974604,
+            "b": 396.0430960915584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "· Lead ROS 2 development for the search-and-rescue UAV subsystem, coordinating a 13-person team through sprint planning, code reviews, and a GitFlow branching workflow",
+      "text": "Lead ROS 2 development for the search-and-rescue UAV subsystem, coordinating a 13-person team through sprint planning, code reviews, and a GitFlow branching workflow",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "cref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 391.2849794,
+            "r": 568.7974981999996,
+            "b": 370.63809609155845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "· Develop and validate autonomous search-pattern software in Python against Gazebo and ArduPilot SITL, integrating the autonomy stack with the flight controller over UDP",
+      "text": "Develop and validate autonomous search-pattern software in Python against Gazebo and ArduPilot SITL, integrating the autonomy stack with the flight controller over UDP",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 366.3844016,
+            "r": 105.2833536,
+            "b": 355.31858130666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "PROJECTS",
+      "text": "PROJECTS",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 352.0724558,
+            "r": 498.74986019999966,
+            "b": 342.8510005960416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 531.4371507999997,
+            "t": 351.93297939999997,
+            "r": 568.7969007999998,
+            "b": 343.2410960915584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            107,
+            115
+          ]
+        }
+      ],
+      "orig": "Buddy - Agentic AI Productivity Mentor | Python, FastAPI, scikit-learn, PostgreSQL, Gemini API, ElevenLabs Sep 2026",
+      "text": "Buddy - Agentic AI Productivity Mentor | Python, FastAPI, scikit-learn, PostgreSQL, Gemini API, ElevenLabs Sep 2026",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "cref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 339.4789794,
+            "r": 568.7974981999995,
+            "b": 318.4420005960416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "· Built a Chrome MV3 extension and async FastAPI backend that streams browsing sessions into TigerData (PostgreSQL) via idempotent upserts, eliminating double-counted time under 40 concurrent, out-of-order heartbeats",
+      "text": "Built a Chrome MV3 extension and async FastAPI backend that streams browsing sessions into TigerData (PostgreSQL) via idempotent upserts, eliminating double-counted time under 40 concurrent, out-of-order heartbeats",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "cref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 314.21445580000005,
+            "r": 568.7974856,
+            "b": 293.03700059604165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "· Trained a TF-IDF + logistic-regression classifier on 1,129 labeled sessions with leak-proof, template-grouped validation splits, reaching 92.5% accuracy and 100% recall on productive work",
+      "text": "Trained a TF-IDF + logistic-regression classifier on 1,129 labeled sessions with leak-proof, template-grouped validation splits, reaching 92.5% accuracy and 100% recall on productive work",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "cref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 288.6699794,
+            "r": 572.9817901999994,
+            "b": 268.0230960915585,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "· Built a voice-driven LLM agent (Gemini, ElevenLabs) with tool use and persistent context, adding tiered fallbacks and confirmationgated writes to prevent silent failures and state corruption",
+      "text": "Built a voice-driven LLM agent (Gemini, ElevenLabs) with tool use and persistent context, adding tiered fallbacks and confirmationgated writes to prevent silent failures and state corruption",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 264.40045580000003,
+            "r": 395.7366111999998,
+            "b": 255.17900059604165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 481.9031385999998,
+            "t": 264.2609794,
+            "r": 568.7969357999998,
+            "b": 255.56909609155844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            82,
+            101
+          ]
+        }
+      ],
+      "orig": "UTAFindR - Hybrid Retrieval | Python, BM25, sentence-transformers, cross-encoders Aug 2026 - Sep 2026",
+      "text": "UTAFindR - Hybrid Retrieval | Python, BM25, sentence-transformers, cross-encoders Aug 2026 - Sep 2026",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "cref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 251.80797940000002,
+            "r": 568.7974981999997,
+            "b": 231.16109609155842,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "· Built a hybrid RAG pipeline that answers UTA CS students' enrollment questions, combining BM25 and dense retrieval through reciprocal rank fusion with cross-encoder reranking",
+      "text": "Built a hybrid RAG pipeline that answers UTA CS students' enrollment questions, combining BM25 and dense retrieval through reciprocal rank fusion with cross-encoder reranking",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "cref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 226.54245579999997,
+            "r": 568.7974595999997,
+            "b": 205.75609609155845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "· Designed fusion rules that protect literal matches, preserving 100% exact-match accuracy on keyword-sensitive queries (course codes, policy terms), verified by an automated evaluation harness",
+      "text": "Designed fusion rules that protect literal matches, preserving 100% exact-match accuracy on keyword-sensitive queries (course codes, policy terms), verified by an automated evaluation harness",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 202.13445580000007,
+            "r": 440.1498443999997,
+            "b": 192.91300059604168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 483.0089495999997,
+            "t": 201.99497940000003,
+            "r": 568.7968981999998,
+            "b": 193.30309609155847,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            92,
+            111
+          ]
+        }
+      ],
+      "orig": "Momentum - Full-Stack Habit-Tracking Platform | React, Node.js, Express, PostgreSQL, Vitest Jun 2026 - Aug 2026",
+      "text": "Momentum - Full-Stack Habit-Tracking Platform | React, Node.js, Express, PostgreSQL, Vitest Jun 2026 - Aug 2026",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "cref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 189.68145579999998,
+            "r": 568.7974709999997,
+            "b": 168.89409609155837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "· Shipped a production web app on Render with 30 REST endpoints over a normalized 7-table PostgreSQL schema, using JWT authentication with HttpOnly cookies, bcrypt hashing, and GitHub OAuth.",
+      "text": "Shipped a production web app on Render with 30 REST endpoints over a normalized 7-table PostgreSQL schema, using JWT authentication with HttpOnly cookies, bcrypt hashing, and GitHub OAuth.",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "cref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 164.2764558,
+            "r": 568.7975061999991,
+            "b": 143.49009609155837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "· Wrote a 47-test Vitest suite covering auth and core flows; diagnosed and hotfixed a production bug that prevented affected users from completing their first week of onboarding.",
+      "text": "Wrote a 47-test Vitest suite covering auth and core flows; diagnosed and hotfixed a production bug that prevented affected users from completing their first week of onboarding.",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 138.7319794,
+            "r": 550.2471369999998,
+            "b": 130.04009609155844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "· Built a rule-based engine generating personalized daily workouts from a 96-exercise library, saved in one atomic transaction.",
+      "text": "· Built a rule-based engine generating personalized daily workouts from a 96-exercise library, saved in one atomic transaction.",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 126.41845579999995,
+            "r": 568.79684,
+            "b": 117.19700059604168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "DocuExtract - Mortgage Document AI | FastAPI, React, TypeScript, ChromaDB, Tesseract Oct 2025",
+      "text": "DocuExtract - Mortgage Document AI | FastAPI, React, TypeScript, ChromaDB, Tesseract Oct 2025",
+      "formatting": null,
+      "hyperlink": null
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "cref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 113.82597940000005,
+            "r": 568.7974981999997,
+            "b": 93.17809609155847,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "· Co-built a FastAPI + React/TypeScript app that OCRs uploaded mortgage documents, extracts key-value fields from single-page files, and routes multi-page files into a RAG index for Q&A",
+      "text": "Co-built a FastAPI + React/TypeScript app that OCRs uploaded mortgage documents, extracts key-value fields from single-page files, and routes multi-page files into a RAG index for Q&A",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "cref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.695,
+            "t": 88.5604558,
+            "r": 568.7975195999999,
+            "b": 67.77409609155848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "· Indexed 14,383 chunks from 500+ pages of Fannie Mae, Freddie Mac, FHA, and USDA guidelines in ChromaDB with retrieval latency under 500 ms, falling back to live web search only when no document matches.",
+      "text": "Indexed 14,383 chunks from 500+ pages of Fannie Mae, Freddie Mac, FHA, and USDA guidelines in ChromaDB with retrieval latency under 500 ms, falling back to live web search only when no document matches.",
+      "formatting": null,
+      "hyperlink": null,
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 63.520401600000014,
+            "r": 95.0138368,
+            "b": 52.45458130666668,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "HONORS",
+      "text": "HONORS",
+      "formatting": null,
+      "hyperlink": null,
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "cref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "meta": null,
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.2,
+            "t": 49.20745580000005,
+            "r": 568.7969187999997,
+            "b": 28.42109609155841,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "$5,000 GenSpiration Prize, National Academy of Inventors - Won $5,000 for a 2-degree-of-freedom soft robotic wrist exoskeleton invention, including the control algorithm, working prototype, and GUI.",
+      "text": "$5,000 GenSpiration Prize, National Academy of Inventors - Won $5,000 for a 2-degree-of-freedom soft robotic wrist exoskeleton invention, including the control algorithm, working prototype, and GUI.",
+      "formatting": null,
+      "hyperlink": null
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image": null,
+      "page_no": 1
+    }
+  }
+}
