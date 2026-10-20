@@ -1,6 +1,18 @@
-docs/
-Trials/
-crawlers/
+# Python
+__pycache__/
+*.pyc
 .venv/
+*.egg-info/
+.pytest_cache/
 
+# Secrets — never commit; copy .env.example instead
 .env
+
+# Crawled data: raw syllabi/profiles are for processing only, never published
+data/
+
+# macOS
+.DS_Store
+
+
+Trials/
